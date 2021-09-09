@@ -1,0 +1,35 @@
+{
+   "candidates" : [
+      {
+         "formatted_address" : "ואן, טורקיה",
+         "geometry" : {
+            "location" : {
+               "lat" : 38.5012085,
+               "lng" : 43.3729793
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.580314,
+                  "lng" : 43.4475848
+               },
+               "southwest" : {
+                  "lat" : 38.425492,
+                  "lng" : 43.26952379999999
+               }
+            }
+         },
+         "name" : "ואן",
+         "photos" : [
+            {
+               "height" : 2715,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111080334753465549322\"\u003eMustafa ciğer\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAnr4JtMsUGjEB7FwxkaQ-b8cslg7ilfxd8UCTMAkLfesW10i_Kis0bgeW1BuKXQ6SCslnUh0Skj8h0IddMi79fkt3xJtXgwdlhMPZ8P130Qoyu0daO6k2wvMrm8LriZwIEhDJwU7_Moy0kiCjlBJNQLQOGhQ_DUopxYQ8n1nK5g60xrnA0IYHVg",
+               "width" : 4096
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}

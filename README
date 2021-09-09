@@ -1,0 +1,7 @@
+To run the preprocessing:
+
+1. Install a virtualenv with the relevant packages. To this end, you may use the provided requirements.txt file.
+
+2. Run preprocessing.py. As all of its arguments are optional, you can siply run "python preprocessing.py" in the shell or cmd, but you may see the details of the different parameters by running "python preprocessing.py --h".
+
+3. You can find the log file and the output file in preprocessing_log.log and preprocessed_data.jsonl, respectively (as long as you didn't specify different paths in the arguments).

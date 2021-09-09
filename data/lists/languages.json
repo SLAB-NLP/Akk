@@ -1,0 +1,40 @@
+{
+    "catalogue": [
+        "Akkadian",
+        "Middle Babylonian",
+        "bilingual",
+        "Urartian-Assyrian",
+        "Neo-Assyrian",
+        "undetermined",
+        "Bilingual",
+        "Middle Assyrian",
+        "akkadian",
+        "Assyrian",
+        "Old Assyrian",
+        "Old Babylonian",
+        "Babylonian",
+        "Old Babylonian",
+        "Neo-Babylonian",
+        "Late-Babylonian",
+        "Standard Babylonian"
+    ],
+    "languages_in_texts_words": [
+        "akk-x-mbperi",
+        "akk",
+        "akk-x-oldbab",
+        "akk-x-midass",
+        "akk-x-neoass",
+        "akk-x-stdbab",
+        "akk-x-ltebab",
+        "akk-x-neobab",
+        "akk-x-earakk",
+        "akk-x-stdbab-949",
+        "akk-949",
+        "akk-x-midbab",
+        "akk-x-oldakk",
+        "akk-936",
+        "akk-935",
+        "akk-x-mbperi-949",
+        "akk-x-oldass"
+    ]
+}

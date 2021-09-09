@@ -127,3 +127,21 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+jsons_unzipped/
+checkFol/
+desktop.ini
+data/bert*
+data/test*
+data/train*
+data/data*
+
+slurm*
+___*
+models/
+logs/
+data/cached_lm*
+transformers/
+.idea/
+akkadian_bert/.idea/
+~$*
+evaluation/
