@@ -52,4 +52,13 @@ When the ``metrics_file`` should be path to a pickle file to save the evaluation
 Any of the mentioned commands can be runned with a ``--help`` flag to get a full description of their different possible arguments.
 
 ## Citing 
-Bibtex coming soon!
+```
+@misc{lazar2021filling,
+      title={Filling the Gaps in Ancient Akkadian Texts: A Masked Language Modelling Approach}, 
+      author={Koren Lazar and Benny Saret and Asaf Yehudai and Wayne Horowitz and Nathan Wasserman and Gabriel Stanovsky},
+      year={2021},
+      eprint={2109.04513},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
+```
