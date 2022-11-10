@@ -282,7 +282,7 @@ def download_projects_jsons(output_dir: str = JSONS_DIR):
 
 if __name__ == '__main__':
     parser = ArgumentParser('Scraping the data from the website of ORACC')
-    parser.add_argument('output_dir',
+    parser.add_argument('--output_dir',
                         help='A path to a directory to save the projects jsons from the website',
                         default=JSONS_DIR,
                         )
